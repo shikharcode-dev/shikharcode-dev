@@ -22,13 +22,6 @@ Currently focused on strengthening my fundamentals and growing step by step as a
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikharcode-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharcode-dev&layout=compact&theme=tokyonight)
-
----
-
 ### 🤝 Reach me
 - 💼 LinkedIn: *(www.linkedin.com/in/shikharmishra007)*  
 
