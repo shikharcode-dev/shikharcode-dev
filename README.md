@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shikhar Mishra</h1>
 
-<!--
-**shikharcode-dev/shikharcode-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I’m an aspiring **Web Developer** with a strong interest in building clean, responsive, and real-world web projects.  
+Currently focused on strengthening my fundamentals and growing step by step as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌱 Currently learning **JavaScript**  
+🚀 Building projects using **HTML & CSS**  
+🧭 Following a structured **MERN Stack roadmap**  
+🏆 Preparing for **Smart India Hackathon (SIH 2026)**  
+
+---
+
+### 🛠️ Tools & Technologies
+- HTML | CSS | JavaScript  
+- Git & GitHub  
+- VS Code  
+- Learning next: React, Node.js, MongoDB  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikharcode-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharcode-dev&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Reach me
+- 💼 LinkedIn: *(www.linkedin.com/in/shikharmishra007)*  
+
+⭐ *Always learning, always building.*
