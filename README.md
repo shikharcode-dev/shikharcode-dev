@@ -22,6 +22,21 @@ Currently focused on strengthening my fundamentals and growing step by step as a
 
 ---
 
+## 🚀 Projects
+
+### Salesforce Website UI Clone
+A frontend UI clone of the Salesforce website built using HTML and CSS for practice.
+
+- Desktop-first UI design  
+- Focused on layout and clean styling  
+- Hosted using GitHub Pages  
+
+🔗 Live: https://shikharcode-dev.github.io/salesforce-ui-clone/  
+📁 Repo: https://github.com/shikharcode-dev/salesforce-ui-clone
+ 
+
+---
+
 ### 🤝 Reach me
 - 💼 LinkedIn: *(www.linkedin.com/in/shikharmishra007)*  
 
