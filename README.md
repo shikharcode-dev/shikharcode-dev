@@ -24,15 +24,19 @@ Currently focused on strengthening my fundamentals and growing step by step as a
 
 ## 🚀 Projects
 
-### Salesforce Website UI Clone
-A frontend UI clone of the Salesforce website built using HTML and CSS for practice.
+🚀 Projects
 
-- Desktop-first UI design  
-- Focused on layout and clean styling  
-- Hosted using GitHub Pages  
+🔹 Modern Responsive Landing Page  
+A fully responsive landing page built using HTML, CSS, and JavaScript. This project focuses on creating a smooth user experience across different screen sizes with a clean and modern layout.
 
-🔗 Live: https://shikharcode-dev.github.io/salesforce-ui-clone/  
-📁 Repo: https://github.com/shikharcode-dev/salesforce-ui-clone
+🔗 Live Project: https://shikharcode-dev.github.io/Landing-page/
+
+---
+
+🔹 Salesforce Website UI Clone  
+A frontend UI clone of the Salesforce website created using HTML and CSS for practice. This project helped strengthen my understanding of layouts, spacing, and visual structure in real-world web pages.
+
+🔗 Live Project: https://shikharcode-dev.github.io/salesforce-ui-clone/
  
 
 ---
