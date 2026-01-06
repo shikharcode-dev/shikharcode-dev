@@ -2,46 +2,45 @@
 
 ---
 
-I’m an aspiring **Web Developer** with a strong interest in building clean, responsive, and real-world web projects.  
-Currently focused on strengthening my fundamentals and growing step by step as a developer.
+I’m a beginner **Frontend Web Developer** focused on building clean, responsive, and real-world web interfaces using **HTML, CSS, and JavaScript**.  
+Currently strengthening my fundamentals and improving step by step through hands-on projects.
 
 ---
 
-🌱 Currently learning **JavaScript**  
-🚀 Building projects using **HTML & CSS**  
-🧭 Following a structured **MERN Stack roadmap**  
+🌱 Learning **JavaScript** and improving frontend fundamentals  
+🎨 Building UI projects with **HTML & CSS**  
+⚙️ Adding interactivity using **JavaScript**  
+📱 Practicing **responsive design**  
 🏆 Preparing for **Smart India Hackathon (SIH 2026)**  
 
 ---
 
 ### 🛠️ Tools & Technologies
-- HTML | CSS | JavaScript  
+- HTML5  
+- CSS3  
+- JavaScript (learning & practicing)  
 - Git & GitHub  
 - VS Code  
-- Learning next: React, Node.js, MongoDB  
 
 ---
 
 ## 🚀 Projects
 
-🚀 Projects
-
-🔹 Modern Responsive Landing Page  
-A fully responsive landing page built using HTML, CSS, and JavaScript. This project focuses on creating a smooth user experience across different screen sizes with a clean and modern layout.
+🔹 **Modern Responsive Landing Page**  
+A responsive landing page built using HTML, CSS, and JavaScript, focusing on layout structure, responsiveness, and basic interactivity.
 
 🔗 Live Project: https://shikharcode-dev.github.io/Landing-page/
 
 ---
 
-🔹 Salesforce Website UI Clone  
-A frontend UI clone of the Salesforce website created using HTML and CSS for practice. This project helped strengthen my understanding of layouts, spacing, and visual structure in real-world web pages.
+🔹 **Salesforce Website UI Clone**  
+A frontend UI clone of the Salesforce website created using HTML and CSS. This project helped improve my understanding of real-world layouts and clean UI structuring.
 
 🔗 Live Project: https://shikharcode-dev.github.io/salesforce-ui-clone/
- 
 
 ---
 
 ### 🤝 Reach me
-- 💼 LinkedIn: *(www.linkedin.com/in/shikharmishra007)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/shikharmishra007/
 
-⭐ *Always learning, always building.*
+⭐ *Learning consistently. Building honestly.*
