@@ -2,45 +2,50 @@
 
 ---
 
-I’m a beginner **Frontend Web Developer** focused on building clean, responsive, and real-world web interfaces using **HTML, CSS, and JavaScript**.  
+I’m a beginner **Frontend Web Developer** focused on building clean, responsive, and real-world web interfaces using **HTML, CSS, and JavaScript**.
 Currently strengthening my fundamentals and improving step by step through hands-on projects.
 
 ---
 
-🌱 Learning **JavaScript** and improving frontend fundamentals  
-🎨 Building UI projects with **HTML & CSS**  
-⚙️ Adding interactivity using **JavaScript**  
-📱 Practicing **responsive design**  
-🏆 Preparing for **Smart India Hackathon (SIH 2026)**  
+🌱 Learning **JavaScript** and improving frontend fundamentals
+🎨 Building UI projects with **HTML, CSS & JavaScript**
+⚙️ Practicing interactive and responsive web development
+📱 Improving **responsive design** skills
+🏆 Preparing for **Smart India Hackathon (SIH 2026)**
 
 ---
 
 ### 🛠️ Tools & Technologies
-- HTML5  
-- CSS3  
-- JavaScript (learning & practicing)  
-- Git & GitHub  
-- VS Code  
+
+* HTML5
+* CSS3
+* JavaScript (learning & practicing)
+* Git & GitHub
+* VS Code
 
 ---
 
 ## 🚀 Projects
 
-🔹 **Modern Responsive Landing Page**  
+🔹 **Movie UI Grid Project**
+A modern movie-themed website built using HTML, CSS, and JavaScript. This project focuses on responsive layouts, CSS Grid, visual hierarchy, interactive elements, and clean UI design inspired by modern streaming platforms.
+
+🔗 Live Project: https://shikharcode-dev.github.io/Grid-project-Movie-UI/
+
+🔗 Repository: https://github.com/shikharcode-dev/Grid-project-Movie-UI
+
+
+---
+
+🔹 **Modern Responsive Landing Page**
 A responsive landing page built using HTML, CSS, and JavaScript, focusing on layout structure, responsiveness, and basic interactivity.
 
 🔗 Live Project: https://shikharcode-dev.github.io/Landing-page/
 
 ---
 
-🔹 **Salesforce Website UI Clone**  
-A frontend UI clone of the Salesforce website created using HTML and CSS. This project helped improve my understanding of real-world layouts and clean UI structuring.
+### 🤝 Reach Me
 
-🔗 Live Project: https://shikharcode-dev.github.io/salesforce-ui-clone/
+* 💼 LinkedIn: https://www.linkedin.com/in/shikharmishra007/
 
----
-
-### 🤝 Reach me
-- 💼 LinkedIn: https://www.linkedin.com/in/shikharmishra007/
-
-⭐ *Learning consistently. Building honestly.*
+⭐ *Learning consistently. Building projects. Growing every day.*
