@@ -19,7 +19,8 @@ Currently strengthening my fundamentals and improving step by step through hands
 
 * HTML5
 * CSS3
-* JavaScript (learning & practicing)
+* JavaScript
+* React (learning & practicing)
 * Git & GitHub
 * VS Code
 
