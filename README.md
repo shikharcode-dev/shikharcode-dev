@@ -42,7 +42,7 @@ Currently learning <strong>React</strong> and strengthening my skills through re
 |:--|:--|:--|:--:|:--:|
 | 🛒 **Redux Shopping Cart** | Authentication • Protected Routes • Cart Management • Fake Store API | React • Redux Toolkit • React Router • Vite | [🌐](https://redox-lime.vercel.app) | [💻](https://github.com/shikharcode-dev/Redox) |
 | 🛍 **Sky-Mart** | Authentication • Dashboard • Categories • Shopping Cart • Responsive UI | React • Redux Toolkit • Vite | [🌐](https://sky-mart-drab.vercel.app/signin) | [💻](https://github.com/shikharcode-dev/Sky-Mart) |
-| 🎬 **Movie UI** | Modern UI • CSS Grid • Responsive Layout • Interactive Design | HTML • CSS • JavaScript | [🌐](https://shikharcode-dev.github.io/Grid-project-Movie-UI/) | [💻](https://github.com/shikharcode-dev/Grid-project-Movie-UI) |
+| 🎬 **Movie UI** | A high-performance React Bento Grid featuring 3D hover physics, an interactive HTML5 canvas scratch-to-reveal effect, and persistent local storage. Engineered for seamless responsive layouts and top-tier UI/UX. | [🌐](https://cinematic-react-lac.vercel.app/) | [💻](https://github.com/shikharcode-dev/cinematic-react) |
 
 ---
 
