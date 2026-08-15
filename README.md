@@ -28,7 +28,8 @@ Currently learning <strong>React</strong> and strengthening my skills through re
 
 ## 🌱 Current Focus
 
-- Learning React and the React ecosystem
+- Learning TypeScript
+- React and the React ecosystem
 - Building frontend applications with Redux Toolkit
 - Working with REST APIs
 - Improving responsive UI development
