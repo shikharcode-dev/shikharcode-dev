@@ -47,21 +47,6 @@ Currently learning <strong>React</strong> and strengthening my skills through re
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shikharcode-dev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharcode-dev&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shikharcode-dev&theme=github-dark&hide_border=true"/>
-</p>
-
----
 
 ## 📌 Currently Building
 
