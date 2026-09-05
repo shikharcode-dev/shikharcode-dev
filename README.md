@@ -6,7 +6,7 @@ Frontend Developer • B.Tech CSE Student (2029)
 
 <p align="center">
 I'm a Computer Science student at <strong>CGC University, Mohali</strong> who enjoys building clean, responsive web applications using modern frontend technologies.
-Currently learning <strong>React</strong> and strengthening my skills through real-world projects while preparing for <strong>Smart India Hackathon (SIH) 2026</strong>.
+Currently learning <strong>React</strong> and strengthening my skills through real-world projects</strong>.
 </p>
 
 ---
